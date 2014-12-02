@@ -1,5 +1,5 @@
 <?php
-// Licence: MIT
+// Licence: ISC
 
 if (!defined('SMF'))
 	die('Hacking attempt...');

@@ -1,5 +1,5 @@
 <?php
-// Licence: MIT
+// Licence: ISC
 
 if (file_exists(dirname(__FILE__) . '/SSI.php') && !defined('SMF'))
 {

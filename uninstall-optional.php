@@ -1,5 +1,5 @@
 <?php
-// Licence: MIT
+// Licence: ISC
 
 // If SSI.php is in the same place as this file, and SMF isn't defined...
 if (file_exists(dirname(__FILE__) . '/SSI.php') && !defined('SMF'))

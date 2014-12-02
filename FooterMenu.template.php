@@ -1,5 +1,5 @@
 <?php
-// Licence: MIT
+// Licence: ISC
 
 function template_editcategory()
 {

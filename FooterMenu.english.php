@@ -1,5 +1,5 @@
 <?php
-// Licence: MIT
+// Licence: ISC
 // Important! Before editing these language files please read the text at the top of index.english.php.
 
 $txt['footer_menu'] = 'Footer Menu';
